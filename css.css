@@ -1,0 +1,36 @@
+
+.head{
+    background-color: black;
+}
+a{
+    margin-right: 200px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.aa{
+    color: yellow;
+}
+.but{
+    color: gray;
+}
+#content{
+    height: 500px ;
+    width: 500px;
+    
+}
+.box{
+    border: 2px solid black;
+    display: inline-block;
+   
+    
+}
+#clss{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+footer{
+   text-align: center;
+   background-color: black;
+   color: aliceblue;
+}
